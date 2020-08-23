@@ -1,0 +1,35 @@
+
+					student # 22
+
+ First-Name        : Abrar
+ Last-Name         : Hameed
+ Class             : 10
+ Roll#             : 22
+ Regis-Date        : 13
+ Gender(M/F)       : M
+ Contact NO        : 03356337695
+ Father-Name       : Rashid Hameed
+ Father Profession : rinitng
+ Father Contact No.: 03356337695
+ Fee Submitted     : 100000
+ Blood Group       : A+
+ Enter Address     : Madina Town
+
+					student # 212
+
+ First-Name        : Aquib
+ Last-Name         : Javed
+ Class             : 9
+ Roll#             : 212
+ Regis-Date        : 13
+ Gender(M/F)       : M
+ Contact NO        : 03334567896
+ Father-Name       : Javed
+ Father Profession : Business
+ Father Contact No.: 03356535798
+ Fee Submitted     : 200000
+ Blood Group       : B+
+ Enter Address     : Madina Town
+
+
+
