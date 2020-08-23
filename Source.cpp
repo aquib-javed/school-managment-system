@@ -1,7 +1,3 @@
-/*Done By Aquib Javed*/
-//			F190-0175
-//And Abrar Hameed
-//			F190-216
 // Kahani School Management System 
 #include<iostream>
 #include<fstream>
